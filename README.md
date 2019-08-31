@@ -37,7 +37,7 @@ Any suggestion and problem, please feel free to let us know via Email: liangzou@
 
 Released under MIT license
 
-##Reference
+## Reference  
 
  1. Chen, Y.; Qin, Y.; Li, Z.; Shi, Q.; Wei, C.; Wu, C.; Cao, C.; Qu, Z. Differences in desorption rate and composition of desorbed gases between undeformed and mylonitic coals in the Zhina Coalfield, Southwest China. FUEL 2019, 239, 905-916.
  2. Mählmann, R.F.; Le Bayon, R. Vitrinite and vitrinite like solid bitumen reflectance in thermal maturity studies: Correlations from diagenesis to incipient metamorphism in different geodynamic settings. INT J COAL GEOL 2016, 157, 52-73.
