@@ -27,7 +27,7 @@ Our software will be updated routinely based on users’suggestions and advice. 
 
 ## Citation 
 We hope you can cite the article if the software has been helpful for your work.                
-[1]  Wang, H.; et al., Intelligent estimation of vitrinite reflectance of coal from photomicrographs based on machine learning. Submitted to Minerals, 2019.
+[1]  Wang, H.; et al., Intelligent estimation of vitrinite reflectance of coal from photomicrographs based on machine learning. Submitted to Energies, 2019.
 
 ## FeedBack 
 
